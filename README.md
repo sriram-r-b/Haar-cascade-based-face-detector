@@ -1,5 +1,5 @@
 # Haar-cascade-based-face-detector
-# As a visitor detector
+# As a visitor detection System
 
 Detection based on Haar cascade is the simplest of methods of detect a human face
 
